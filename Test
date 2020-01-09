@@ -8,6 +8,4 @@ git checkout -b <new>		// Creates a branch called new and transfers the work the
 git branch			// Shows all the branches and the working one
 git checkout <branch>		// Switches to another branch
 git status			//Shows the status			
-<<<<<<< HEAD
 git push --all <dest>		// Uploads to GitHub//
-Here lies new22221122
