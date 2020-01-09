@@ -10,4 +10,4 @@ git checkout <branch>		// Switches to another branch
 git status			//Shows the status			
 <<<<<<< HEAD
 git push --all <dest>		// Uploads to GitHub//
-Here lies new2222
+Here lies new22221122
